@@ -24,8 +24,8 @@ nav:
   #     - セキュリティポリシー: policies/security.md
   #     - プライバシーポリシー: policies/privacy.md
   #     - データ管理: policies/data_management.md
-  - 手順:
-      - 入社手続き: procedures/onboarding.md
+  # - 手順:
+      # - 入社手続き: procedures/onboarding.md
       # - 年次レビュー: procedures/performance_reviews.md
       # - 離職手続き: procedures/offboarding.md
   # - ツールとリソース:
@@ -34,6 +34,6 @@ nav:
   #     - トレーニング資料: tools_and_resources/training.md
   # - よくある質問: faq.md
   - リモートワーク: 
-      - リモートワークガイド: remote_work/guide.md
+      # - リモートワークガイド: remote_work/guide.md
       - コミュニケーションのベストプラクティス: remote_work/communication.md
       # - 時差とスケジュール管理: remote_work/time_zones.md
