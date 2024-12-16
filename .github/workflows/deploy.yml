@@ -1,0 +1,28 @@
+name: Deploy MkDocs site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # デプロイ対象のブランチ
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs mkdocs-material
+
+      - name: Build and deploy
+        run: |
+          mkdocs gh-deploy --force
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
