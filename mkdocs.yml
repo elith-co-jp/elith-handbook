@@ -1,3 +1,9 @@
+# サイト名の設定
 site_name: Elith Handbook
+
 theme:
   name: material
+
+# 使用するプラグインの設定
+plugins:
+  - search  # 検索機能を提供するプラグイン
