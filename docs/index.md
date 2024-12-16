@@ -1,17 +1,53 @@
-# Welcome to MkDocs
+# Elith Handbook
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Elithの公式ハンドブックへようこそ。このハンドブックは、会社の文化、ポリシー、手順、およびその他の重要な情報を提供します。
 
-## Commands
+## 目次
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. [会社概要](#会社概要)
+2. [文化と価値観](#文化と価値観)
+3. [ポリシー](#ポリシー)
+4. [手順](#手順)
+5. [ツールとリソース](#ツールとリソース)
+6. [よくある質問](#よくある質問)
 
-## Project layout
+## 会社概要
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Elithは、革新的なソリューションを提供する企業です。私たちのミッションは、サイバースペースの民主化で人とAIが共進化する未来を築くことです。
+
+### ビジョン
+
+ポストヒューマンエコシステムを創造する
+
+## 文化と価値観
+
+私たちの文化は、協力、透明性、成長を重視しています。Elithでは、すべての社員が意見を共有し、共に成長することを奨励しています��
+
+### 価値観
+
+#### H - High Performance（高い生産性）
+人間を超える高い生産性を追求し、卓越した成果を実現します。効率的な作業プロセスと高い目標設定により、持続的な成長を目指します。
+
+#### T - Teamwork（チームワーク）
+分け合いと教え合いの文化を大切にし、協力して目標を達成します。多様な意見やスキルを尊重し、強力なチームを築きます。
+
+#### E - Expertise（専門知識）
+Geekであることを重視し、深い専門知識と技術力を追求します。常に最新の情報や技術を学び、専門家としての地位を確立します。
+
+#### L - Leadership（リーダーシップ）
+自分でなんとかする姿勢を持ち、他責にせず主体的に行動します。チームを導き、困難な状況でも冷静に問題解決に取り組みます。
+
+#### I - Innovation（革新）
+自己破壊的なチャレンジを恐れず、新しいアイデアや方法を積極的に導入します。現状に満足せず、常に改善と進化を目指します。
+
+## ポリシー
+
+### 勤務時間
+
+通常の勤務時間は月曜日から金曜日の9:00から18:00までです。
+
+## よくある質問
+
+### 休暇を申請するにはどうすればよいですか？
+
+人事部に連絡し、休暇申請フォームを提出してください。
