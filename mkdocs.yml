@@ -7,3 +7,33 @@ theme:
 # 使用するプラグインの設定
 plugins:
   - search  # 検索機能を提供するプラグイン
+
+# ナビゲーションの設定
+nav:
+  - ホーム: index.md
+  # - 会社概要: 
+  #     - ビジョンとミッション: company_overview/vision_and_mission.md
+  #     - 会社の歴史: company_overview/history.md
+  #     - 組織図: company_overview/organization_chart.md
+  # - 文化と価値観:
+  #     - コアバリュー: culture_and_values/core_values.md
+  #     - 多様性とインクルージョン: culture_and_values/diversity_and_inclusion.md
+  #     - 働き方: culture_and_values/ways_of_working.md
+  # - ポリシー:
+  #     - 行動規範: policies/code_of_conduct.md
+  #     - セキュリティポリシー: policies/security.md
+  #     - プライバシーポリシー: policies/privacy.md
+  #     - データ管理: policies/data_management.md
+  - 手順:
+      - 入社手続き: procedures/onboarding.md
+      # - 年次レビュー: procedures/performance_reviews.md
+      # - 離職手続き: procedures/offboarding.md
+  # - ツールとリソース:
+  #     - 使用中のツール: tools_and_resources/tools.md
+  #     - ドキュメントテンプレート: tools_and_resources/templates.md
+  #     - トレーニング資料: tools_and_resources/training.md
+  # - よくある質問: faq.md
+  - リモートワーク: 
+      - リモートワークガイド: remote_work/guide.md
+      - コミュニケーションのベストプラクティス: remote_work/communication.md
+      # - 時差とスケジュール管理: remote_work/time_zones.md
