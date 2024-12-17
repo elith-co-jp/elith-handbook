@@ -37,3 +37,4 @@ nav:
       # - リモートワークガイド: remote_work/guide.md
       - コミュニケーションのベストプラクティス: remote_work/communication.md
       # - 時差とスケジュール管理: remote_work/time_zones.md
+      - ローコンテキストコミュニケーション: remote_work/low_context_communication.md
